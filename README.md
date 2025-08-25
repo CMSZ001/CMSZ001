@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.acmsz.top/api?username=CMSZ001&show_icons=true&theme=Default&locale=cn&hide=prs&rank_icon=github" alt="logo" align="right" width="50%" />
 
+🤖 **欢迎来到我的 GitHub 仓库！** 🚀
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CMSZ001/CMSZ001/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CMSZ001/CMSZ001/output/github-contribution-grid-snake.svg">
